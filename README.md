@@ -47,7 +47,7 @@
 ### 1. DataPreprocessing
 #### 1) Set config
 * Set parameter for running
-* path: /config/config.yaml
+* path: config.yaml
 #### 2) DataPreprocessing
 ```sh
 example
